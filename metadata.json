@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake & Synth",
+  "description": "Play Snake while listening to AI-generated synth tracks in a dark neon interface.",
+  "requestFramePermissions": []
+}
